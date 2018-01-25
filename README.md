@@ -3,4 +3,9 @@
 
 Feel free to contribute to this repository. If you have questions or suggestions, please submit an issue. If you need to, you can email me at [elvisd79@gmail.com](mailto:elvisd79@gmail.com?subject=Re: Arc light mailspring theme).
 
+
 ![Screenshot](screenshot/custom-theme.png)
+
+
+# Install
+Download [ZIP-Archive](https://github.com/elvisd/mailspring-theme-arc-light/Archive/master.zip) and extract. Run Mailspring, select **Edit - Install Theme...** and choose folder.
