@@ -8,4 +8,4 @@ Feel free to contribute to this repository. If you have questions or suggestions
 
 
 # Install
-Download [ZIP-Archive](https://github.com/elvisd/mailspring-theme-arc-light/Archive/master.zip) and extract. Run Mailspring, select **Edit - Install Theme...** and choose folder.
+Download [ZIP-Archive](https://github.com/elvisd/mailspring-theme-arc-light/archive/master.zip) and extract. Run Mailspring, select **Edit - Install Theme...** and choose folder.
